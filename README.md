@@ -1,4 +1,4 @@
-# WhosThatPokemonImages
+# WhosThatPokemonSilhouette
 
 For fun I created a "Who's that Pokemon!?" game and needed access to the silhouette images by URL. Feel free to reference these urls through githubusercontent.
 
